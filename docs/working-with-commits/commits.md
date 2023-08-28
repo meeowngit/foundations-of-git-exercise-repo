@@ -61,7 +61,7 @@ When you open a repository, GitKraken Client will first check for a commit templ
 ### Creating and Updating the Commit Template
 You can create and update a commit template in GitKraken Client by visiting <em class='context-menu'>Preferences <i class='fa fa-caret-right'></i>Commit Template</em>.
 
-If a commit template was read from your local git config, any changes you make to the template in GitKraken Client will save to the file specified.
+
 
 If a commit template was not read from your default `.gitconfig` or you are creating a template for the first time, any change you make to the template in GitKraken Client will be written to a file called `gkcommittemplate.txt` in your repository's `.git/` directory. GitKraken Client will also update your repository's git config `commit.template` setting to point to this file. This allows you to make changes to your local commit template without overwriting your global commit template for all of your other repositories.
 
