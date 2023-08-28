@@ -12,7 +12,7 @@ description: Learn how to edit files in GitKraken Client.
 If you just [created a new file](/working-with-files/adding-and-removing#adding-a-file) in GitKraken Client, then you will automatically be placed into edit mode, so you can start coding right away.
 
 There are several ways to edit an existing file:
-  *  Right click the file from a previous commit or when `View all files` is enabled and select `Edit file`.
+ * Right click the file from a previous commit or when `View all files` is enabled and select `Edit file`.
 
  <img src='/img/documentation/working-with-files/editing-files/edit-context-menu.png' srcset='/img/documentation/working-with-files/editing-files/edit-context-menu@2x.png 2x' class='img-bordered img-responsive center'>
 
