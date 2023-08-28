@@ -9,7 +9,6 @@ description: Learn how to add and remove files in GitKraken Client.
 
 ## Adding a file
 
-Add a file to GitKraken Client using the Command Palette.
 
 To initiate the Command Palette, hit <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>P</kbd>, type `Create File`, and hit <kbd>Enter</kbd>.
 
