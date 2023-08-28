@@ -14,8 +14,6 @@ Commit to save work with GitKraken Client when changing files.  Whether you comm
 
 ## Making a commit
 
-To make a commit in GitKraken Client, select your _Work in Progress_ and to view recent changes on the Commit Panel.
-
 <img src='/img/documentation/working-with-files/commits/WIP-stage.png' srcset='/img/documentation/working-with-files/commits/WIP-stage@2x.png 2x' class='img-bordered img-responsive center'>
 
 Select the files you wish to stage, and click on any files you wish to review in the diff. To stage all your files, use the keyboard shortcut <kbd>&#8984;</kbd><kbd>Shift</kbd><kbd>S</kbd> for Mac or <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>S</kbd> for Windows or Linux.
@@ -61,7 +59,7 @@ When you open a repository, GitKraken Client will first check for a commit templ
 ### Creating and Updating the Commit Template
 You can create and update a commit template in GitKraken Client by visiting <em class='context-menu'>Preferences <i class='fa fa-caret-right'></i>Commit Template</em>.
 
-
+If a commit template was read from your local git config, any changes you make to the template in GitKraken Client will save to the file specified.
 
 If a commit template was not read from your default `.gitconfig` or you are creating a template for the first time, any change you make to the template in GitKraken Client will be written to a file called `gkcommittemplate.txt` in your repository's `.git/` directory. GitKraken Client will also update your repository's git config `commit.template` setting to point to this file. This allows you to make changes to your local commit template without overwriting your global commit template for all of your other repositories.
 

@@ -32,11 +32,7 @@ The `editable` tag in the upper right corner, denotes that you can edit the curr
 
 <img src='/img/documentation/working-with-files/editing-files/editable.png' srcset='/img/documentation/working-with-files/editing-files/editable@2x.png 2x' class='img-bordered img-responsive center'>
 
-IntelliSense suggestions are shown based on the extension of the file.
 
-<img src='/img/documentation/working-with-files/editing-files/intellisense.png' srcset='/img/documentation/working-with-files/editing-files/intellisense@2x.png 2x' class='img-bordered img-responsive center'>
-
-### Saving edits
 
 The blue dot in the upper right corner indicates unsaved changes. 
 
