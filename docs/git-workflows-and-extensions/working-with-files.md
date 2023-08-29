@@ -17,7 +17,9 @@ Staging and committing LFS tracked files results in the reference files being sa
 
 Once your repo is pushed to an LFS-capable remote, the reference files will be saved to the remote repo and the actual files will be pushed to your specified LFS server.
 
-Most LFS actions, such as Checkout, Fetch, Pull, and Push will happen automatically as you use the standard commands in GitKraken Client. However, if you want to use an LFS command in isolation, use the LFS toolbar menu:
+## Lists Added
+* item1
+* item2
 
  <img src='/img/documentation/git-lfs/lfs-dropdown.png' srcset='/img/documentation/git-lfs/lfs-dropdown@2x.png 2x' class='img-responsive center img-bordered' />
 
