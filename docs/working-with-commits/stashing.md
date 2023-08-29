@@ -23,7 +23,6 @@ Your stash will appear on the graph. If you right click on the stash, you will b
 * **Pop Stash**: Applies the changes to your WIP and then deletes your stash
 * **Delete Stash**: Annihilates a stash
 * **Hide**: Hides the selected stash from the commit graph
-* **Hide all stashes**: Hides all stashes from the commit graph
 * **Show all stashes**: Shows all stashes on the commit graph
 
 <img src='/img/documentation/working-with-files/stashing/stash-options.png' srcset='/img/documentation/working-with-files/stashing/stash-options@2x.png 2x' class='img-bordered img-responsive center'>
@@ -42,9 +41,9 @@ Your stashes will be available from the left panel for review. The same options 
 
 This is helpful for those times you cannot find your stash on the graph.
 
-<a name="naming-a-stash"></a>
 
-### Naming a stash
+
+## Naming a stash
 
 To name your stash, type the desired name in the `// WIP` field at the top of the graph.
 

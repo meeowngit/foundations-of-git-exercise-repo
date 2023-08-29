@@ -64,11 +64,6 @@ In addition to Undo and Redo, the main toolbar houses common repo actions.
     </dd>
      <dt class='img'><img src='/img/documentation/icons/gk-lfs-icon.svg' class='img-responsive'></dt>
     <dd>
-        <h3>LFS</h3>
-        <p> Have large files in your repo? This button will appear when you have <a href="/git-workflows-and-extensions/intro-and-requirements/">LFS</a> enabled on the repository.</p>
-    </dd>
-         <dt class='img'><img src='/img/documentation/icons/gk-glo-board-icon.svg' class='img-responsive'></dt>
-    <dd>
         <h3>Boards</h3>
         <p>Track your tasks and issues with <a href="/glo/start-glo-ing/">GitKraken Boards</a>.</p>
     </dd>

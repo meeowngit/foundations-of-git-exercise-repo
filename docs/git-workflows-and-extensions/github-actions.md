@@ -26,9 +26,6 @@ GitKraken Client will allow you to create new workflows from the left panel.
 
 Hovering over `GitHub Actions` and clicking the <button class='button button--success button--ui button--nolink'>+</button> button will open the `Create Workflow` panel. From here you can select from availible workflow templates or create a blank workflow. Workflows will be placed in the `.github/workflows folder` that GitHub uses (it will create the folder if none exists). 
 
-<div class='callout callout--success'>
-    <p><strong>Note:</strong> the <strong>GitHub Actions</strong> section will only appear when working in GitHub repositories</p>
-</div>
 
 ***
 
