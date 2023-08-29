@@ -12,9 +12,7 @@ Commit to save work with GitKraken Client when changing files.  Whether you comm
 
 <a id="making-a-commit"></a>
 
-## Making a commit
 
-<img src='/img/documentation/working-with-files/commits/WIP-stage.png' srcset='/img/documentation/working-with-files/commits/WIP-stage@2x.png 2x' class='img-bordered img-responsive center'>
 
 Select the files you wish to stage, and click on any files you wish to review in the diff. To stage all your files, use the keyboard shortcut <kbd>&#8984;</kbd><kbd>Shift</kbd><kbd>S</kbd> for Mac or <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>S</kbd> for Windows or Linux.
 
