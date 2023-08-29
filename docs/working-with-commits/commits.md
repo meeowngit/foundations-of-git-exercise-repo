@@ -27,7 +27,6 @@ The graph updates with your commit, but the undo button or this keyboard shortcu
 
 <a id="committing-with-co-authors"></a>
 
-### Committing with Co-Authors
 
 To add co-authors to a commit, add a line to your commit description using the following format: 
 ```
